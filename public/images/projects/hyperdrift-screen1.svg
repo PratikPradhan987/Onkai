@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" fill="none">
+  <rect width="800" height="500" fill="#0D0B14"/>
+  <rect x="2" y="2" width="796" height="496" stroke="#251F33" stroke-width="2"/>
+  <line x1="50" y1="450" x2="750" y2="450" stroke="#FF5C00" stroke-width="2"/>
+  <polyline points="100,450 300,200 500,300 700,100" stroke="#A855F7" stroke-width="3" fill="none"/>
+  <text x="40" y="60" fill="#F5F5F7" font-family="monospace" font-size="14">TELEMETRY // GHOST LAP TRAJECTORY VECTOR</text>
+</svg>

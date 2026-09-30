@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" fill="none">
+  <rect width="800" height="500" fill="#0E1214"/>
+  <text x="40" y="60" fill="#14B8A6" font-family="monospace" font-size="16">APCA / WCAG 2.2 AA CONTRAST AUDIT MATRIX // 100% PASS</text>
+  <rect x="40" y="100" width="720" height="340" rx="12" fill="#151E22" stroke="#25353D"/>
+</svg>

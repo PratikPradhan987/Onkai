@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" fill="none">
+  <rect width="1200" height="680" fill="#140D0E"/>
+  <path d="M100 340 C 300 140, 500 540, 700 340 C 900 140, 1000 440, 1100 340" stroke="#E11D48" stroke-width="4" fill="none"/>
+  <text x="60" y="80" fill="#F5F5F7" font-family="system-ui, sans-serif" font-size="20" font-weight="700">ECHO RELAY // FREQUENCY SPECTROGRAM</text>
+</svg>

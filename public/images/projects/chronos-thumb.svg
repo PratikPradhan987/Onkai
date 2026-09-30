@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" fill="none">
+  <rect width="800" height="500" fill="#0C0E12"/>
+  <circle cx="400" cy="250" r="130" stroke="#232733" stroke-width="8"/>
+  <circle cx="400" cy="250" r="130" stroke="#FF5C00" stroke-width="8" stroke-dasharray="400 500"/>
+  <text x="400" y="260" text-anchor="middle" fill="#F5F5F7" font-family="sans-serif" font-size="36" font-weight="700">25:00</text>
+</svg>

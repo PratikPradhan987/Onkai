@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" fill="none">
+  <rect width="800" height="500" fill="#0E0E12"/>
+  <rect x="2" y="2" width="796" height="496" stroke="#23232C" stroke-width="2"/>
+  <!-- Circular radar grid -->
+  <circle cx="400" cy="250" r="180" stroke="#23232C" stroke-width="1.5" stroke-dasharray="6 4"/>
+  <circle cx="400" cy="250" r="120" stroke="#FF5C00" stroke-width="1.5" stroke-opacity="0.3"/>
+  <circle cx="400" cy="250" r="60" stroke="#FF5C00" stroke-width="2" stroke-opacity="0.6"/>
+  <!-- Frequency waveform curves -->
+  <path d="M100 250 Q 250 80, 400 250 T 700 250" stroke="#FF5C00" stroke-width="3" fill="none"/>
+  <path d="M100 250 Q 250 380, 400 250 T 700 250" stroke="#FF8533" stroke-width="2" stroke-opacity="0.5" fill="none"/>
+  <!-- Node handles -->
+  <circle cx="250" cy="165" r="8" fill="#FF5C00"/>
+  <circle cx="400" cy="250" r="10" fill="#F5F5F7" stroke="#FF5C00" stroke-width="3"/>
+  <circle cx="550" cy="335" r="8" fill="#FF5C00"/>
+  <!-- Telemetry labels -->
+  <text x="40" y="60" fill="#71717A" font-family="monospace" font-size="14">NODE_SPATIAL_CLUSTER // 48kHz 24-BIT</text>
+  <text x="40" y="450" fill="#FF5C00" font-family="monospace" font-size="14">LATENCY: 4.2ms // STEREO MATRIX ACTIVE</text>
+</svg>

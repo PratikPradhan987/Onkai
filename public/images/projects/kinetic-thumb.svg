@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" fill="none">
+  <rect width="800" height="500" fill="#0F0E14"/>
+  <circle cx="400" cy="250" r="140" stroke="#FF5C00" stroke-width="2" stroke-dasharray="4 8"/>
+  <circle cx="400" cy="250" r="80" stroke="#A855F7" stroke-width="2"/>
+  <circle cx="400" cy="250" r="20" fill="#FF5C00"/>
+  <text x="40" y="60" fill="#A1A1AA" font-family="monospace" font-size="14">KINETIC CANVAS // BROWSER OPTICAL FLOW</text>
+</svg>

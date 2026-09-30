@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" fill="none">
+  <rect width="1200" height="680" fill="#0A0A0E"/>
+  <rect x="2" y="2" width="1196" height="676" stroke="#23232C" stroke-width="2"/>
+  <defs>
+    <radialGradient id="audioGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FF5C00" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#0A0A0E" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <circle cx="600" cy="340" r="300" fill="url(#audioGlow)"/>
+  <circle cx="600" cy="340" r="240" stroke="#23232C" stroke-width="2"/>
+  <circle cx="600" cy="340" r="160" stroke="#FF5C00" stroke-width="2" stroke-opacity="0.5" stroke-dasharray="12 6"/>
+  <circle cx="600" cy="340" r="80" stroke="#FF8533" stroke-width="2"/>
+  <path d="M150 340 C 300 120, 450 560, 600 340 C 750 120, 900 560, 1050 340" stroke="#FF5C00" stroke-width="4" fill="none"/>
+  <circle cx="375" cy="230" r="12" fill="#FF5C00"/>
+  <circle cx="600" cy="340" r="14" fill="#FFFFFF" stroke="#FF5C00" stroke-width="4"/>
+  <circle cx="825" cy="450" r="12" fill="#FF5C00"/>
+  <text x="60" y="80" fill="#F5F5F7" font-family="system-ui, sans-serif" font-size="20" font-weight="700">SOUNDCRAFT ENGINE // ARCHITECTURE VIEW</text>
+  <text x="60" y="620" fill="#A1A1AA" font-family="monospace" font-size="16">REAL-TIME WAVETABLE SYNTHESIS &amp; SPATIAL MATRIX</text>
+</svg>

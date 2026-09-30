@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" fill="none">
+  <rect width="800" height="500" fill="#121218"/>
+  <rect x="2" y="2" width="796" height="496" stroke="#23232C" stroke-width="2"/>
+  <rect x="40" y="40" width="720" height="80" rx="8" fill="#181822" stroke="#2B2B38"/>
+  <circle cx="80" cy="80" r="16" fill="#FF5C00"/>
+  <rect x="120" y="70" width="200" height="12" rx="6" fill="#F5F5F7"/>
+  <rect x="120" y="90" width="100" height="8" rx="4" fill="#71717A"/>
+  <!-- Matrix sliders -->
+  <g transform="translate(40, 160)">
+    <line x1="0" y1="40" x2="720" y2="40" stroke="#23232C" stroke-width="2"/>
+    <circle cx="180" cy="40" r="10" fill="#FF5C00"/>
+    <line x1="0" y1="120" x2="720" y2="120" stroke="#23232C" stroke-width="2"/>
+    <circle cx="480" cy="120" r="10" fill="#FF5C00"/>
+    <line x1="0" y1="200" x2="720" y2="200" stroke="#23232C" stroke-width="2"/>
+    <circle cx="320" cy="200" r="10" fill="#FF5C00"/>
+  </g>
+</svg>

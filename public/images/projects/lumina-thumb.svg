@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" fill="none">
+  <rect width="800" height="500" fill="#0E1214"/>
+  <rect x="2" y="2" width="796" height="496" stroke="#1D2A30" stroke-width="2"/>
+  <rect x="150" y="100" width="120" height="120" rx="16" fill="#FF5C00" opacity="0.9"/>
+  <rect x="340" y="100" width="120" height="120" rx="16" fill="#14B8A6" opacity="0.9"/>
+  <rect x="530" y="100" width="120" height="120" rx="16" fill="#3B82F6" opacity="0.9"/>
+  <rect x="150" y="270" width="500" height="130" rx="16" fill="#151E22" stroke="#25353D"/>
+  <text x="40" y="60" fill="#A1A1AA" font-family="monospace" font-size="14">LUMINA TOKENS // CROSS-PLATFORM PARSER</text>
+</svg>

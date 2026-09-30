@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" fill="none">
+  <rect width="800" height="500" fill="#0D0B14"/>
+  <rect x="2" y="2" width="796" height="496" stroke="#251F33" stroke-width="2"/>
+  <polygon points="400,100 700,450 100,450" stroke="#FF5C00" stroke-width="3" fill="none" opacity="0.8"/>
+  <line x1="400" y1="100" x2="400" y2="450" stroke="#FF8533" stroke-width="2" stroke-dasharray="8 6"/>
+  <circle cx="400" cy="380" r="16" fill="#FF5C00"/>
+  <path d="M250 420 Q 400 350, 550 420" stroke="#A855F7" stroke-width="4" fill="none"/>
+  <text x="40" y="60" fill="#A1A1AA" font-family="monospace" font-size="14">HYPERDRIFT // DETERMINISTIC PHYSICS 60FPS</text>
+</svg>

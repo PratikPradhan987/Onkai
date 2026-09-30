@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" fill="none">
+  <rect width="1200" height="680" fill="#0A0E10"/>
+  <rect x="2" y="2" width="1196" height="676" stroke="#1D2A30" stroke-width="2"/>
+  <g transform="translate(100, 150)">
+    <rect x="0" y="0" width="280" height="380" rx="20" fill="#141D22" stroke="#25353D"/>
+    <rect x="340" y="0" width="280" height="380" rx="20" fill="#141D22" stroke="#25353D"/>
+    <rect x="680" y="0" width="280" height="380" rx="20" fill="#141D22" stroke="#25353D"/>
+  </g>
+  <text x="60" y="80" fill="#F5F5F7" font-family="system-ui, sans-serif" font-size="20" font-weight="700">LUMINA // UNIFIED DESIGN TOKEN ARCHITECTURE</text>
+</svg>

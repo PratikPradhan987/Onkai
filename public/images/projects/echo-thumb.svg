@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" fill="none">
+  <rect width="800" height="500" fill="#140D0E"/>
+  <path d="M50 250 Q 200 100, 400 250 T 750 250" stroke="#E11D48" stroke-width="3" fill="none"/>
+  <circle cx="400" cy="250" r="12" fill="#FF5C00"/>
+  <text x="40" y="60" fill="#A1A1AA" font-family="monospace" font-size="14">ECHO RELAY // SYNTHETIC RF PUZZLE</text>
+</svg>
