@@ -1,0 +1,91 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace;
+  --color-bg: #070709;
+  --color-surface: #0e0e12;
+  --color-surface-elevated: #15151c;
+  --color-surface-border: #23232c;
+  --color-orange: #ff5c00;
+  --color-orange-glow: rgba(255, 92, 0, 0.25);
+  --color-text-primary: #f5f5f7;
+  --color-text-secondary: #a1a1aa;
+}
+
+@layer base {
+  html {
+    background-color: var(--color-bg);
+    color: var(--color-text-primary);
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    overflow-x: hidden;
+  }
+
+  /* Universal accessible focus indicators */
+  :focus-visible {
+    outline: 2px solid #ff5c00;
+    outline-offset: 3px;
+  }
+
+  /* Selection styling */
+  ::selection {
+    background-color: #ff5c00;
+    color: #070709;
+  }
+}
+
+/* Reduced motion preference respected globally */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Custom subtle dark scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #070709;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #23232c;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #3f3f46;
+}
+
+/* Decorative subtle grid background */
+.bg-grid-pattern {
+  background-image: radial-gradient(circle, rgba(255, 255, 255, 0.07) 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+
+/* Glow effects */
+.orange-glow {
+  box-shadow: 0 0 40px -10px rgba(255, 92, 0, 0.3);
+}
+
+.orange-glow-sm {
+  box-shadow: 0 0 20px -5px rgba(255, 92, 0, 0.25);
+}
