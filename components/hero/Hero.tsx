@@ -6,7 +6,7 @@ import { PRIMARY_CTA } from '@/lib/constants';
 
 export function Hero() {
   return (
-    <section className="relative pt-12 pb-20 md:pt-20 md:pb-32 overflow-hidden border-b border-surface-border/40" aria-label="Introduction">
+    <section className="bg-[url('/images/Panda.jpg')]  relative pt-12 pb-20 md:pt-20 md:pb-32 overflow-hidden border-b border-surface-border/40" aria-label="Introduction">
       {/* Background ambient lighting */}
       <div
         className="absolute top-0 left-1/2 -translate-x-1/2 w-full max-w-7xl h-[500px] pointer-events-none opacity-40 bg-hero-glow"
